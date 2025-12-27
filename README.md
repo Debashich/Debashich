@@ -65,12 +65,13 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=Debashich&theme=neon-palenight&hide_border=true"
     width="90%"
   />
-</p>
+</p> -->
+
 
 <p align="center">
   <img 
@@ -89,6 +90,6 @@
     width="45%"
   />
 </p>
----
+
 
 > *“Building reliable systems and cool products, one project and hackathon at a time.”*
