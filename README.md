@@ -2,7 +2,7 @@
 
 - 🎓 2nd-year **Computer Science & Engineering** student at **Siliguri Institute of Technology**
 - 💻 **Backend-heavy full-stack** developer working with **Go, TypeScript, and Python**
-- 🛰️ Interested in **distributed systems, backend engineering, and infra-heavy projects**
+- 🛰️ Interested in **backend engineering, and infra-heavy projects**
 - 🧠 Strong believer in *learning by building real projects & hackathon products*
 - ⚡ Primary languages: **Go**, **Python**, **TypeScript/JavaScript**, and **C/C++**
 
@@ -10,10 +10,9 @@
 
 ### 🚀 What I’m Working On
 
-- 🔭 **Go-based backend services** and microservice-style APIs  
-- 🛰️ **Python satellite/network simulator** for latency, packet loss, routing & dashboards  
+- 🔭 **Go-based backend services** and microservice-style APIs    
 - 📝 **Full-stack web apps**, including a Medium-like blogging platform using **Go + SQL**  
-- 🎯 Exploring **open-source & GSoC-friendly** backend/infra ecosystems (Docker, tooling)
+- 🎯 Exploring **open-source** backend/infra ecosystems (Docker, tooling)
 
 ---
 
@@ -34,8 +33,7 @@
 **Frontend & Tooling:**  
 - HTML • CSS • JavaScript / TypeScript  
 - Webpack • Babel • ES Modules  
-- Firebase • localStorage for fast prototypes  
-- Interest in **timeline-style UIs** & playground-style apps  
+- Firebase • localStorage for fast prototypes 
 
 **Databases & Infra:**  
 - PostgreSQL • MySQL (schema design, queries, comparisons)  
@@ -60,6 +58,8 @@
 
 ### 🌐 Find Me on the Internet  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/sinhadebashish/)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/debashich21)
+
 
 ---
 
