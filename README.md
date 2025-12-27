@@ -3,8 +3,8 @@
 - 🎓 2nd-year **Computer Science & Engineering** student at **Siliguri Institute of Technology**
 - 💻 **Backend-heavy full-stack** developer working with **Go, TypeScript, and Python**
 - 🛰️ Interested in **backend engineering, and infra-heavy projects**
-- 🧠 Strong believer in *learning by building real projects & hackathon products*
-- ⚡ Primary languages: **Go**, **Python**, **TypeScript/JavaScript**, and **C/C++**
+- 🧠 Mostly just shipping stuff under pressure – hackathons, last‑minute builds, whatever keeps the brain lag‑free.
+- ⚡ Primary languages: **Go**, **Python**, **TypeScript/JavaScript**, **Shell: Bash** and **C/C++**
 
 ---
 
@@ -12,7 +12,7 @@
 
 - 🔭 **Go-based backend services** and microservice-style APIs    
 - 📝 **Full-stack web apps**, including a Medium-like blogging platform using **Go + SQL**  
-- 🎯 Exploring **open-source** backend/infra ecosystems (Docker, tooling)
+- 🎯 Exploring **open-source** backend/infra ecosystems (Docker, Bash scripting, tooling)
 
 ---
 
@@ -25,19 +25,14 @@
 - C / C++  
 - SQL (PostgreSQL, MySQL)
 
-**Backend & APIs:**  
-- RESTful APIs (GET, POST, PUT, DELETE)  
-- Microservice-style Go projects & module management  
-- API-centric architectures for simulators and dashboards  
-
-**Frontend & Tooling:**  
-- HTML • CSS • JavaScript / TypeScript  
-- Webpack • Babel • ES Modules  
-- Firebase • localStorage for fast prototypes 
+  
+**Backend, APIs & Frontend:**  
+- RESTful APIs (GET, POST, PUT, DELETE) with microservice-style Go backends and API-centric architectures for simulators/dashboards
+- HTML, CSS, JavaScript/TypeScript with React and modern tooling (Webpack, Babel, ES Modules), using Firebase for rapid prototyping
 
 **Databases & Infra:**  
 - PostgreSQL • MySQL (schema design, queries, comparisons)  
-- Docker & containerized environments (exploring for OSS & GSoC)  
+- Docker & containerized environments
 - Linux / WSL-based development workflows  
 
 **Tools & Environment:**  
