@@ -36,7 +36,8 @@
     style="width: 500px;
   />
 </p>
-
+    
+---
 
 
 
@@ -45,29 +46,35 @@
 ### 🏆 Experience & Activities
 
 - 👨‍💻 Backend & full-stack project developer (**Go + TS + Python + SQL**)  
-- 🛰️ Built a **Python-based satellite/network simulator** with realistic transmission behavior  
-- 🧩 **SIH 2025 Hardware Finalist** — Team **GRAINZ**  
-- 🌐 Active member of college tech clubs & hackathons  
+- 🧩 **SIH 2025 Hardware Finalist**
+- 🌐 Active member of college tech club & hackathons  
 - 📂 Regularly pushing experimental & learning-focused projects to GitHub  
 
 ---
+<h2 align="center">🛰️ Connect with Me</h2>
 
-### 🌐 Find Me on the Internet  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/sinhadebashish/)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/debashich21)
+<p align="center" style="width: 500px;">
+  <a href="https://linkedin.com/in/sinhadebashish/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/debashich21">
+    <img
+      src="https://readmecodegen.vercel.app/api/social-icon?name=x&size=40&bg=%23ffffff&theme=dark"
+      alt="X (Twitter)"
+    />
+  </a>
+  <a href="https://instagram.com/debashich21">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
+  </a>
+  <a href="mailto:debashishsinha555@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
+  </a>
+</p>
 
 
 ---
 
 # 📊 GitHub Stats
-
-<!-- <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Debashich&theme=neon-palenight&hide_border=true"
-    width="90%"
-  />
-</p> -->
-
 
 <p align="center">
   <img 
