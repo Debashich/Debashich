@@ -8,36 +8,61 @@
 - 💻 **Backend-heavy full-stack** developer working with **Go, TypeScript, and Python**
 - 🛰️ Interested in **backend engineering, and infra-heavy projects**
 - 🧠 Mostly just shipping stuff under pressure – hackathons, last‑minute builds, whatever keeps the brain lag‑free.
-- ⚡ Primary languages: **Go**, **Python**, **TypeScript/JavaScript**, **Shell: Bash** and **C/C++**
-
----
-
-### 🚀 What I’m Working On
-
-- 🔭 **Go-based backend services** and microservice-style APIs    
-- 📝 **Full-stack web apps**, including a Medium-like blogging platform using **Go + SQL**  
-- 🎯 Exploring **open-source** backend/infra ecosystems (Docker, Bash scripting, tooling)
+- ⚡ Primary languages: **Go**, **Python**, **TypeScript/JavaScript** and **C/C++**
 
 ---
 
 # 💻 Tech Stack: <img src="skills.gif" width="25">
+
 <h2 align="center">🌐 Languages & Technologies</h2>
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=go,python,ts,js,c,cpp,html,css,react,firebase,postgres,mysql&perline=6&theme=dark"
     alt="Languages & Technologies"
-    style="width: 500px;"
   />
 </p>
 
 <h2 align="center">🛠 Tools</h2>
-<p align="center">
+<div align="center">
   <img
     src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker&perline=5&theme=dark"
     alt="Tools"
-    style="width: 500px;"
   />
+</div>
+
+<h2 align="center">📓 Notebooks & Data Platforms</h2>
+<div align="center">
+ <!-- Jupyter with white background -->
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"
+    alt="Jupyter Notebook"
+    height="46"
+    style="background-color: white; padding: 4px; border-radius: 6px;"
+  />
+  <!-- Kaggle -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg"
+       alt="Kaggle" height="46" />
+</div>
+
+
+<h2 align="center">📊 Data & ML</h2>
+<p align="center">
+  <!-- NumPy -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
+       alt="NumPy" height="40" />
+<!-- Pandas: darker wordmark -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" 
+       alt="Pandas" height="46" />
+  <!-- Matplotlib -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" 
+       alt="Matplotlib" height="40" />
+  <!-- Seaborn (tweaked for dark bg) -->
+  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" 
+       alt="Seaborn" height="40" style="filter: invert(0.9) contrast(1.1);" />
 </p>
+
+
+
 
 
     
@@ -91,25 +116,35 @@
 ---
 
 
-# 📊 GitHub Stats
+
+
+<h1 align="center">Github Stats</h1>
 
 <p align="center">
-  <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Debashich&theme=2077"
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img
+      src="https://github-readme-streak-stats-eight.vercel.app?user=Debashich&theme=dark&ring=ff0000&fire=ff4500&currStreakLabel=ff4d4d&background=000000"
+      alt="GitHub Streak"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Debashich&theme=monokai"
     width="90%"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Debashich&theme=aura_dark"
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Debashich&theme=monokai"
     width="45%"
   />
-  <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Debashich&theme=aura_dark"
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Debashich&theme=monokai"
     width="45%"
   />
 </p>
 
-
-> *“Building reliable systems and cool products, one project and hackathon at a time.”*
+<h4 align="center">“Be the change you wish to see.”</h4>
