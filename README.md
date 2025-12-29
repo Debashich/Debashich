@@ -19,7 +19,7 @@
 ---
 
 # 💻 Tech Stack: <img src="skills.gif" width="25">
-<h2 align="center">🌐 Languages & Technologies</h3>
+<h2 align="center">🌐 Languages & Technologies</h2>
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=go,python,ts,js,c,cpp,html,css,react,firebase,postgres,mysql&perline=6&theme=dark"
@@ -28,17 +28,53 @@
   />
 </p>
 
-<h2 align="center">🛠 Tools</h3>
+<h2 align="center">🛠 Tools</h2>
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker&perline=5&theme=dark"
     alt="Tools"
-    style="width: 500px;
+    style="width: 500px;"
   />
 </p>
+
+
     
 ---
 
+
+
+<h2 align="center">🛰️ Connect with Me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/sinhadebashish/">
+    <img
+      src="https://skillicons.dev/icons?i=linkedin&theme=dark"
+      alt="LinkedIn"
+      style="margin: 0 8px;"
+    />
+  </a>
+  <a href="https://x.com/debashich21">
+    <img
+      src="https://readmecodegen.vercel.app/api/social-icon?name=x&size=40&bg=%23ffffff&theme=dark"
+      alt="X (Twitter)"
+      style="margin: 0 8px;"
+    />
+  </a>
+  <a href="https://instagram.com/debashich21">
+    <img
+      src="https://skillicons.dev/icons?i=instagram&theme=dark"
+      alt="Instagram"
+      style="margin: 0 8px;"
+    />
+  </a>
+  <a href="mailto:debashishsinha555@gmail.com">
+    <img
+      src="https://skillicons.dev/icons?i=gmail&theme=dark"
+      alt="Gmail"
+      style="margin: 0 8px;"
+    />
+  </a>
+</p>
 
 
 ---
@@ -52,28 +88,6 @@
 
 ---
 
-<h2 align="center">🛰️ Connect with Me</h2>
-
-<p align="center" style="width: 500px;">
-  <a href="https://linkedin.com/in/sinhadebashish/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/debashich21">
-    <img
-      src="https://readmecodegen.vercel.app/api/social-icon?name=x&size=40&bg=%23ffffff&theme=dark"
-      alt="X (Twitter)"
-    />
-  </a>
-  <a href="https://instagram.com/debashich21">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
-  </a>
-  <a href="mailto:debashishsinha555@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
-  </a>
-</p>
-
-
----
 
 # 📊 GitHub Stats
 
