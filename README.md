@@ -1,3 +1,5 @@
+# <img src="fire.png" width="50">Hello! I’m Debashish Sinha <img src="fire.png" width="50">
+
 ### 🌟 About Me ![](https://komarev.com/ghpvc/?username=Debashich&label=Profile+views&style=for-the-badge&color=blue)
 
 - 🎓 2nd-year **Computer Science & Engineering** student at **Siliguri Institute of Technology**
@@ -16,28 +18,27 @@
 
 ---
 
-### 🛠️ Tech Stack
+# 💻 Tech Stack: <img src="skills.gif" width="25">
+<h2 align="center">🌐 Languages & Technologies</h3>
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=go,python,ts,js,c,cpp,html,css,react,firebase,postgres,mysql&perline=6&theme=dark"
+    alt="Languages & Technologies"
+    style="width: 500px;"
+  />
+</p>
 
-**Languages:**  
-- Go (Golang)  
-- Python  
-- TypeScript / JavaScript  
-- C / C++  
-- SQL (PostgreSQL, MySQL)
+<h2 align="center">🛠 Tools</h3>
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker&perline=5&theme=dark"
+    alt="Tools"
+    style="width: 500px;
+  />
+</p>
 
-  
-**Backend, APIs & Frontend:**  
-- RESTful APIs (GET, POST, PUT, DELETE) with microservice-style Go backends and API-centric architectures for simulators/dashboards
-- HTML, CSS, JavaScript/TypeScript with React and modern tooling (Webpack, Babel, ES Modules), using Firebase for rapid prototyping
 
-**Databases & Infra:**  
-- PostgreSQL • MySQL (schema design, queries, comparisons)  
-- Docker & containerized environments
-- Linux / WSL-based development workflows  
 
-**Tools & Environment:**  
-- VS Code, Git, GitHub  
-- Linux terminal & WSL for backend/full-stack work  
 
 ---
 
