@@ -1,4 +1,6 @@
-# <img src="fire.png" width="50">Hello! I’m Debashish Sinha <img src="fire.png" width="50">
+# <img src="fire.png" width="35">Hello! I’m Debashish Sinha <img src="fire.png" width="35">
+
+
 
 ### 🌟 About Me ![](https://komarev.com/ghpvc/?username=Debashich&label=Profile+views&style=for-the-badge&color=blue)
 
