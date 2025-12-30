@@ -16,19 +16,37 @@
 
 <h2 align="center">🌐 Languages & Technologies</h2>
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=go,python,ts,js,c,cpp,html,css,react,firebase,postgres,mysql&perline=6&theme=dark"
-    alt="Languages & Technologies"
-  />
+  <img src="https://skillicons.dev/icons?i=go" alt="Go" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=c" alt="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+  </br>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="48" height="48" style="filter: brightness(0) saturate(100%) invert(59%) sepia(91%) saturate(2319%) hue-rotate(360deg) brightness(101%) contrast(101%);" />
 </p>
+
+
+
+
 
 <h2 align="center">🛠 Tools</h2>
 <div align="center">
-  <img
-    src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker&perline=5&theme=dark"
-    alt="Tools"
-  />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="48" height="48" />
+ 
 </div>
+
+
 
 <h2 align="center">📓 Notebooks & Data Platforms</h2>
 <div align="center">
