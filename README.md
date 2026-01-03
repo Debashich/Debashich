@@ -18,7 +18,7 @@
 
 # 💻 Tech Stack: <img src="skills.gif" width="25">
 
-<h2 align="center">🌐 Languages & Technologies</h2>
+<h2 align="center"><img src="skills.gif" width="25"> Languages & Technologies</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go" alt="Go" />
   <img src="https://skillicons.dev/icons?i=python" alt="Python" />
