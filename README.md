@@ -1,16 +1,15 @@
-# <img src="fire.png" width="35">Hello! I’m Debashish Sinha <img src="fire.png" width="35">
-
----
-<img src="https://media.licdn.com/dms/image/v2/D5622AQEj6GmR1Dk3KQ/feedshare-shrink_800/B56ZsnL5prKIAg-/0/1765888996920?e=1769040000&v=beta&t=0VXR8JNmPbVEE3fbrfY2SNpVlKvyO7pNPgXDtz-kdks" alt="ME" />
----
+# <img src="fire.png" width="35">Hi, I’m Debashish ! <img src="fire.png" width="35">
 
 ### 🌟 About Me ![](https://komarev.com/ghpvc/?username=Debashich&label=Profile+views&style=for-the-badge&color=blue)
+<img src="https://media.licdn.com/dms/image/v2/D5622AQEj6GmR1Dk3KQ/feedshare-shrink_800/B56ZsnL5prKIAg-/0/1765888996920?e=1769040000&v=beta&t=0VXR8JNmPbVEE3fbrfY2SNpVlKvyO7pNPgXDtz-kdks" alt="ME" />
 
-- 🎓 2nd-year **Computer Science & Engineering** student at **Siliguri Institute of Technology**
-- 💻 **Backend-heavy full-stack** developer working with **Go, TypeScript, and Python**
-- 🛰️ Interested in **backend engineering, and infra-heavy projects**
-- 🧠 Mostly just shipping stuff under pressure – hackathons, last‑minute builds, whatever keeps the brain lag‑free.
-- ⚡ Primary languages: **Go**, **Python**, **TypeScript/JavaScript** and **C/C++**
+---
+
+- 💻 ***Backend enthusiast*** learning and building with **Go, TypeScript, Python**  
+- 🔧 Exploring **scalable systems and infrastructure** – microservices, containerization, CI/CD, and distributed architectures  
+- 🚀 Learning by building – backends, APIs, and figuring out why things break  
+- ⚡ Hackathons, open source contributions, and debugging issues at odd hours
+
 
 ---
 
@@ -131,10 +130,10 @@
 
 ### 🏆 Experience & Activities
 
-- 👨‍💻 Backend & full-stack project developer (**Go + TS + Python + SQL**)  
-- 🧩 **SIH 2025 Hardware Finalist**
+- 👨‍💻 Backend & full-stack developer (**Go + TS + Python + SQL**)  
+- 🧩 **SIH 2025 Grand Finalist**
 - 🌐 Active member of college tech club & hackathons  
-- 📂 Regularly pushing experimental & learning-focused projects to GitHub  
+- 📂 Regularly pushing projects to GitHub  
 
 ---
 
