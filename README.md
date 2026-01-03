@@ -52,21 +52,6 @@
 
 
 
-<h2 align="center">📓 Notebooks & Data Platforms</h2>
-<div align="center">
- <!-- Jupyter with white background -->
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"
-    alt="Jupyter Notebook"
-    height="46"
-    style="background-color: white; padding: 4px; border-radius: 6px;"
-  />
-  <!-- Kaggle -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg"
-       alt="Kaggle" height="46" />
-</div>
-
-
 <h2 align="center">📊 Data & ML</h2>
 <p align="center">
   <!-- NumPy -->
@@ -92,7 +77,7 @@
 
 
 
-<h2 align="center">🛰️ Connect with Me</h2>
+<h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/sinhadebashish/">
