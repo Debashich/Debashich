@@ -1,6 +1,8 @@
 # <img src="fire.png" width="35">Hello! I’m Debashish Sinha <img src="fire.png" width="35">
 
-
+---
+<img src="https://media.licdn.com/dms/image/v2/D5622AQEj6GmR1Dk3KQ/feedshare-shrink_800/B56ZsnL5prKIAg-/0/1765888996920?e=1769040000&v=beta&t=0VXR8JNmPbVEE3fbrfY2SNpVlKvyO7pNPgXDtz-kdks" alt="ME" />
+---
 
 ### 🌟 About Me ![](https://komarev.com/ghpvc/?username=Debashich&label=Profile+views&style=for-the-badge&color=blue)
 
@@ -11,6 +13,9 @@
 - ⚡ Primary languages: **Go**, **Python**, **TypeScript/JavaScript** and **C/C++**
 
 ---
+
+
+
 
 # 💻 Tech Stack: <img src="skills.gif" width="25">
 
