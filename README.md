@@ -9,7 +9,7 @@
 - ⚡ Hackathons, open source contributions, and debugging issues at odd hours
 
 
----
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 
 
@@ -71,7 +71,8 @@
 
 
     
----
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
+
 
 
 
@@ -109,7 +110,8 @@
 </p>
 
 
----
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
+
 
 
 
@@ -143,6 +145,9 @@
     width="45%"
   />
 </p>
+
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
+
 
 <h4 align="center">
 <!-- -->
