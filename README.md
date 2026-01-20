@@ -50,23 +50,6 @@
 
 
 
-<h2 align="center">📊 Data & ML</h2>
-<p align="center">
-  <!-- NumPy -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
-       alt="NumPy" height="40" />
-<!-- Pandas: darker wordmark -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" 
-       alt="Pandas" height="46" />
-  <!-- Matplotlib -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" 
-       alt="Matplotlib" height="40" />
-  <!-- Seaborn (tweaked for dark bg) -->
-  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" 
-       alt="Seaborn" height="40" style="filter: invert(0.9) contrast(1.1);" />
-</p>
-
-
 
 
 
