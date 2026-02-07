@@ -13,11 +13,11 @@
 
 
 
-
+<!--
 # 💻 Tech Stack: <img src="skills.gif" width="25">
-
-<h2 align="center"><img src="skills.gif" width="25"> Languages & Technologies</h2>
-<p align="center">
+-->
+<!-- <h2 align="center"><img src="skills.gif" width="25"> Languages & Technologies</h2> -->
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=go" alt="Go" />
   <img src="https://skillicons.dev/icons?i=python" alt="Python" />
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
@@ -31,14 +31,14 @@
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="48" height="48" style="filter: brightness(0) saturate(100%) invert(59%) sepia(91%) saturate(2319%) hue-rotate(360deg) brightness(101%) contrast(101%);" />
-</p>
+</p> -->
 
 
 
 
 
-<h2 align="center">🛠 Tools</h2>
-<div align="center">
+<!-- <h2 align="center">🛠 Tools</h2> -->
+<!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
@@ -46,7 +46,7 @@
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="48" height="48" />
  
-</div>
+</div> -->
 
 
 
@@ -54,14 +54,13 @@
 
 
     
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 
 
 
-<h2 align="center">🌐 Connect with Me</h2>
+<!-- <h2 align="center">🌐 Connect with Me</h2> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://linkedin.com/in/sinhadebashish/">
     <img
       src="https://skillicons.dev/icons?i=linkedin&theme=dark"
@@ -90,10 +89,9 @@
       style="margin: 0 8px;"
     />
   </a>
-</p>
+</p> -->
 
 
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 
 
