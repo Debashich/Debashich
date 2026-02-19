@@ -3,9 +3,9 @@
 ### 🌟 About Me ![](https://komarev.com/ghpvc/?username=Debashich&label=Profile+views&style=for-the-badge&color=blue)
 <!-- <img src="https://media.licdn.com/dms/image/v2/D5622AQEj6GmR1Dk3KQ/feedshare-shrink_800/B56ZsnL5prKIAg-/0/1765888996920?e=1769040000&v=beta&t=0VXR8JNmPbVEE3fbrfY2SNpVlKvyO7pNPgXDtz-kdks" alt="ME" /> -->
 
-- 💻 ***Backend & DevOps enthusiast*** learning and building with **Go, TypeScript, Python**  
-- 🔧 Exploring **scalable systems and infrastructure** – microservices, containerization, CI/CD, and distributed architectures  
-- 🚀 Learning by building – backends, APIs, and figuring out why things break  
+- 💻 ***Backend & DevOps enthusiast !*** 
+- 🏆 **SIH'25 Finalist | OSS Contributor | Sophomore**
+- 🔭 Currently Exploring ***Golang*** & ***AWS***
 - ⚡ Hackathons, open source contributions, and debugging issues at odd hours
 
 
