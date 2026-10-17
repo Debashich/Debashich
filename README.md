@@ -1,14 +1,20 @@
 <!--# <img src="fire.png" width="35">Hi, I’m Debashish ! <img src="fire.png" width="35">
 -->
-### 🌟 About Me ![](https://komarev.com/ghpvc/?username=Debashich&label=Profile+views&style=for-the-badge&color=blue)
+### 🌟 About Me
 
-- 💻 ***Backend & DevOps enthusiast !*** 
-- 🏆 **SIH'25 Finalist | Pre Final Year**
-- 🔭 In the midst of exploring **Compilers** and **pipelines**.
-- 🌐 Checkout my **Open Source Contributions** ([**link**](https://github.com/pulls/search?q=is%3Apr+author%3ADebashich+%28org%3Ameshery+OR+org%3Akubeflow+OR+org%3Apodman-container-tools+OR+org%3Atektoncd+OR+org%3Akubernetes%29+%28is%3Aopen+OR+is%3Amerged%29+sort%3Acreated-desc))
+<!-- <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Debashich&label=Profile%20Views&style=flat-square&color=blue" alt="Profile Views" />
+</p> -->
 
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
+- 💻 **Backend & Cloud-Native Engineering**
+- 🏆 **SIH'25 Grand Finalist | Pre-Final Year**
+- 🔭 Exploring **Kubernetes, Compilers & Cloud-Native Tooling**
+- 🌐 Check out my **[Open Source Contributions](https://github.com/pulls/search?q=is%3Apr+author%3ADebashich+%28org%3Ameshery+OR+org%3Akubeflow+OR+org%3Apodman-container-tools+OR+org%3Atektoncd+OR+org%3Akubernetes%29+%28is%3Aopen+OR+is%3Amerged%29+sort%3Acreated-desc)**
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif" width="100%" alt="Coding animation" />
+</p>
+<!--
 <h1 align="center">Github Stats</h1>
 
 <table align="center">
@@ -45,7 +51,7 @@
 </table>
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
-
+-->
 
 <h4 align="center">
 <!-- -->
