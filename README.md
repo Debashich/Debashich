@@ -9,7 +9,7 @@
 - 💻 **Focus:** Backend & Cloud-Native Engineering
 - 🏆 **_SIH'25 Grand Finalist_** | Pre-Final Year 
 - 🔭 **Exploring:** Kubernetes, Compilers & Cloud-Native Tooling
-- 🌐 **Open Source:** Contributing across the CNCF landscape ➜ **[Pull Requests](https://github.com/pulls/search?q=is%3Apr+author%3ADebashich+%28org%3Ameshery+OR+org%3Akubeflow+OR+org%3Apodman-container-tools+OR+org%3Atektoncd+OR+org%3Akubernetes%29+%28is%3Aopen+OR+is%3Amerged%29+sort%3Acreated-desc)**
+- 🌐 **Open Source:** Contributing across the CNCF landscape ➜ **[Pull Requests](https://github.com/pulls/search?q=is%3Apr+author%3ADebashich+%28org%3Ameshery+OR+org%3Apodman-container-tools+OR+org%3Atektoncd+OR+org%3Akubernetes%29+%28is%3Aopen+OR+is%3Amerged%29+sort%3Acreated-desc)**
 
 <!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif" width="100%" alt="Coding animation" />
